@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this dataset as below."
+type: dataset
+title: "Saudi online store services: prices and delivery times, Q4 2026"
+authors:
+  - name: "Judy Marketing"
+    website: "https://judymarketing.com"
+date-released: "2026-11-25"
+version: "2026.4"
+license: CC-BY-4.0
+url: "https://judymarketing.com/en/salla-orders-index/page-259293973"
